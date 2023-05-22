@@ -1,5 +1,5 @@
 # EX-4 IMPLEMENTATION OF ADDRESS RESOLUTION PROTOCOL (ARP)
-# DATE : 30.03.2023
+# DATE : 27-03-2023
 # AIM :
 ### To write a python program for simulating ARP protocols using TCP
 
@@ -19,8 +19,8 @@
 
 # CLIENT PROGRAM :
 ```PY
-## Developed : Kavinraja D
-## Reg no : 212222240047
+## Developed : Akash A
+## Reg no : 212221230003
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
